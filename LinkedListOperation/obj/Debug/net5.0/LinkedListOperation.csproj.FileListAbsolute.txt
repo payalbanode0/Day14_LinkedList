@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.exe
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.deps.json
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.runtimeconfig.json
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.dll
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.pdb
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.dll
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\refint\LinkedListOperation.dll
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.pdb
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Day14\LinkedList\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\ref\LinkedListOperation.dll
